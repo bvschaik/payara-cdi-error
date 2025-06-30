@@ -52,3 +52,7 @@ Affected Payara server versions:
 Not affected:
 
 - 6.2024.5 and earlier
+
+## Payara bug report
+
+https://github.com/payara/Payara/issues/7492
